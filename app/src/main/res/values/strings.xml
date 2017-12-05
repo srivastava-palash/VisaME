@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VisaME</string>
+
+    <string name="dummy_button">Hit Me</string>
+    <string name="dummy_content">VisaMe\n:D</string>
+    <string name="visa_me">VisaME</string>
+</resources>
